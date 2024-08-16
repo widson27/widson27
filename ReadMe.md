@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Sou estudante de Front end<br>👯 Estou em busca de uma oportunidade na área<br>🤝 Trabalho em equipe
+🔭 Sou estudante de Front end<br>🤝 Estou em busca de uma oportunidade na área
 
 
 ## 🌐 Socials:
